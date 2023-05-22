@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/uapm8t5r2fgcv2yi?svg=true)](https://ci.appveyor.com/project/MaximSIT/3-webselenium)
